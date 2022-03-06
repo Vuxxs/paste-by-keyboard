@@ -6,7 +6,7 @@ def clipboardToKeyboard():
     write(paste())
 
 
-print("Paste by Keyboard script")
+print("Paste by Keyboard script v1.0.0")
 print("<ctrl> + <shift> + V to paste")
 print("esc to exit.")
 
