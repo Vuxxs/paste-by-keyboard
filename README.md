@@ -1,6 +1,6 @@
 # Paste by Keyboard
 
-### A simple script for pasting in applications that don't allow clipboard using your keyboard.
+### A simple script for pasting in applications that don't allow clipboard pasting, using your keyboard.
 
 ## **How to use**
 
